@@ -1,0 +1,7 @@
+h:\users\custos\documents\visual studio 2013\Projects\OnePlus-One\OnePlus-One\bin\Release\OnePlus-One.exe
+h:\users\custos\documents\visual studio 2013\Projects\OnePlus-One\OnePlus-One\bin\Release\OnePlus-One.pdb
+h:\users\custos\documents\visual studio 2013\Projects\OnePlus-One\OnePlus-One\obj\Release\OnePlus_One.Form1.resources
+h:\users\custos\documents\visual studio 2013\Projects\OnePlus-One\OnePlus-One\obj\Release\OnePlus_One.Properties.Resources.resources
+h:\users\custos\documents\visual studio 2013\Projects\OnePlus-One\OnePlus-One\obj\Release\OnePlus-One.csproj.GenerateResource.Cache
+h:\users\custos\documents\visual studio 2013\Projects\OnePlus-One\OnePlus-One\obj\Release\OnePlus-One.exe
+h:\users\custos\documents\visual studio 2013\Projects\OnePlus-One\OnePlus-One\obj\Release\OnePlus-One.pdb
